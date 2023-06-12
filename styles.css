@@ -2,3 +2,6 @@
 .star{
 	color:yellow;
 }
+span{
+	border-bottom:100px solid rgb(255, 255, 0);
+}
